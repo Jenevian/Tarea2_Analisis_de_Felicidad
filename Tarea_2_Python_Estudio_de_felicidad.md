@@ -275,7 +275,7 @@ plt.show()
 
 ![png](output_23_0.png)
 
-![](Grafico Felicidad.png)
+![png](Grafico Felicidad.png)
 
 Pala la elección de los paises, observamos los paises que se encuentran en nuestr BBDD
 
