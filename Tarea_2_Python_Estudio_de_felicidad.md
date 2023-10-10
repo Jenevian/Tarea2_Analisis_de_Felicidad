@@ -272,9 +272,6 @@ plt.ylabel('Frecuencia')
 plt.legend()
 plt.show()
 ```
-
-![png](output_23_0.png)
-
 ![png](Grafico_Felicidad.png)
 
 Pala la elección de los paises, observamos los paises que se encuentran en nuestr BBDD
